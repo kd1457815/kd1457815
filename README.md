@@ -4,7 +4,6 @@ Welcome to my GitHub profile! / 歡迎來到我的 GitHub 首頁！ / 私のGitH
 ## 🚀 Latest Project / 最新上線作品 / 最新の公開プロジェクト
 ### 🌐 Live2D AI Chat
 **[👉 Click to Play / 立刻體驗 / デモを体験する](https://veved.in-time5298.com)**
-*(Please replace the link above with your actual domain / 請將上方替換為您的真實網址 / 上記のリンクを実際のURLに置き換えてください)*
 
 🇺🇸 **English**  
 A fully interactive Live2D chat application featuring multi-language support, real-time AI conversation, and dynamic TTS voice synthesis.  
@@ -17,4 +16,5 @@ A fully interactive Live2D chat application featuring multi-language support, re
 🇯🇵 **日本語**  
 多言語対応、リアルタイムAI会話、TTS音声合成を搭載した完全インタラクティブなLive2Dチャットアプリケーションです。  
 *(注：バックエンドのAPIキーおよびユーザーのプライバシー保護のため、ソースコードは非公開（Private）に設定しています。)*
+
 ---
